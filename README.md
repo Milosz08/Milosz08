@@ -34,7 +34,7 @@ Backend end technologies/databases I know:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PosgreSQL"/>&nbsp;
 
-Other tools/servers I know:
+Other tools/servers I working with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" title="Linux Ubuntu Server"/>&nbsp;
