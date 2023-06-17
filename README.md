@@ -13,8 +13,7 @@ I am currently learning Apache Kafka and reactive programming (RxJava, RxJS).
 <br>
 [Go to my LinkedIn profile](https://www.linkedin.com/in/miłosz-gilga-477201219/)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Milosz08&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Milosz08&theme=blue-green)](https://github.com/Milosz08)
 
 Frontend technologies I know:
 
