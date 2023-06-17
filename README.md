@@ -13,6 +13,9 @@ I am currently learning Apache Kafka and reactive programming (RxJava, RxJS).
 <br>
 [Go to my LinkedIn profile](https://www.linkedin.com/in/miłosz-gilga-477201219/)
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Milosz08&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 Frontend technologies I know:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>&nbsp;
