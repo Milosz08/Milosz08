@@ -57,6 +57,7 @@ Other tools/servers I working with:
 
 I current learning:
 
+<img src="https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white"/>&nbsp;
