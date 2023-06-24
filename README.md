@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Computer Science student at Silesian University of Technology and Java developer. Mostly work in: Angular, Java SE/EE, Spring Framework/Boot, JPA,
+I am Computer Science student at Silesian University of Technology and T-shaped Java developer. Mostly work in: Angular, Java SE/EE, Spring Framework/Boot, JPA,
 FreeMarker, Hibernate, Liquibase, JPQL/SQL.
 
 My main interests revolve around web engineering with a focus on queueing theory in a broad range of web applications and their implementations in these 
