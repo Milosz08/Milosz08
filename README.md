@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Hi there 👋
-
 I am Computer Science student at Silesian University of Technology and T-shaped Java developer. Mostly work in: Angular, Java SE/EE, Spring Framework/Boot, JPA,
 FreeMarker, Hibernate, Liquibase, JPQL/SQL.
 
@@ -13,9 +11,7 @@ I am currently learning Apache Kafka and reactive programming (RxJava, RxJS).
 <br>
 [Go to my LinkedIn profile](https://www.linkedin.com/in/miłosz-gilga-477201219/)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Milosz08&theme=blue-green)](https://github.com/Milosz08)
-
-Frontend technologies I know:
+Frontend technologies I working with:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;
@@ -25,7 +21,7 @@ Frontend technologies I know:
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black"/>&nbsp;
 
-Backend technologies/databases I know:
+Backend technologies/databases I working with:
 
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>&nbsp;
